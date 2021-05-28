@@ -19,16 +19,16 @@ The purpose of this project is to reduce the manual work.
 
 Features of payroll management system is as follows :-
 
-1>The data is only accessible to the administrator
+1>The data is only accessible to the administrator.																																																															
 2>To improve the efficiency.
-3>Stores all the details of the employees
-4>The administrator can easily change or update an employees data
-5>Manages the information of salary
-6>Automatically calculates the salary based on the number of working days of the employee
-7>List employees attendance
-8>Every employee has a special employee ID
-9>With employee ID you can fetch the employees data as well a salary
-10>Prints salary slip
-11>Quickly finds out information of an employee details
+3>Stores all the details of the employees.
+4>The administrator can easily change or update an employees data.
+5>Manages the information of salary.
+6>Automatically calculates the salary based on the number of working days of the employee.
+7>List employees attendance.
+8>Every employee has a special employee ID.
+9>With employee ID you can fetch the employees data as well a salary.
+10>Prints salary slip.
+11>Quickly finds out information of an employee details.
 12>Provides easy and faster access information.
 13>Administrator needs to only have basic information about the database.
